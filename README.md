@@ -41,17 +41,17 @@
       height="30"
       width="40"
     />
-  </a>
   <a href="https://www.codechef.com/users/shekhar_8" target="blank">
   <img
     align="center"
-    src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://th.bing.com/th/id/OIP.u2f8ffsPnvhvnf1m7lojgAHaHa?rs=1&pid=ImgDetMain)"
+    src="https://s3.amazonaws.com/discourseproduction/original/1X/ba28115bd3d5badf6cce0eb175d5875dadee3b12.png"
     alt="CodeChef"
     height="30"
     width="40"
-    style="filter: invert(1) brightness(200);"
+    style="filter: invert(1) brightness(2);"
   />
 </a>
+
 
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shashankshekh75" target="blank">
     <img
