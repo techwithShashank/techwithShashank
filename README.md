@@ -236,18 +236,19 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=techwithshashank&show_icons=true&locale=en&layout=compact"
       alt="Top Languages"
     />
-  </p>
+  </div>
 
-  <p align="right">
+  <div>
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=techwithshashank"
       alt="GitHub Streak"
     />
-  </p>
+  </div>
 </div>
+
