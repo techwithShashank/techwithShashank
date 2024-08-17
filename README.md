@@ -116,15 +116,16 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="Express"
-      width="40"
-      height="40"
-    />
-  </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://hackersandslackers-cdn.storage.googleapis.com/2020/05/express.png"
+    alt="Express"
+    width="40"
+    height="40"
+    style="filter: invert(1) brightness(2);"
+  />
+</a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
