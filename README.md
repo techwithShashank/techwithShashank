@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashank Shekhar Shukla</h1>
-<h3 align="center">
+<h1 align="center" style="color:#00FFFF; text-shadow: 2px 2px 8px #000000;">Hi 👋, I'm Shashank Shekhar Shukla</h1>
+<h3 align="center" style="color:#FFD700; text-shadow: 1px 1px 4px #000000;">
   A passionate Software Engineer and enthusiastic learner from India, dedicated
   to crafting efficient and innovative solutions
 </h3>
@@ -18,11 +18,11 @@
   />
 </p>
 
-- 💬 Ask me about **Competitive Programming, Full-Stack Web Development**
-- 📫 How to reach me **30637cs@gmail.com**
-- ⚡ Fun fact: **I am Funny😅😎**
+- 💬 Ask me about **<span style="color:#FFA500; text-shadow: 1px 1px 2px #000000;">Competitive Programming, Full-Stack Web Development</span>**
+- 📫 How to reach me **<span style="color:#7FFF00; text-shadow: 1px 1px 2px #000000;">30637cs@gmail.com</span>**
+- ⚡ Fun fact: **<span style="color:#FF69B4; text-shadow: 1px 1px 2px #000000;">I am Funny😅😎</span>**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:#ADFF2F; text-shadow: 1px 1px 4px #000000;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.kaggle.com/techshashank" target="blank">
     <img
@@ -80,11 +80,11 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color:#FF4500; text-shadow: 1px 1px 4px #000000;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png"
+      src="https://img.icons8.com/ios-filled/50/ffffff/bootstrap.png"
       alt="Bootstrap"
       width="40"
       height="40"
@@ -207,48 +207,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="Python"
       width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="Sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="Tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+      height
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=techwithshashank&show_icons=true&locale=en&layout=compact"
-    alt="techwithshashank"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=techwithshashank&"
-    alt="techwithshashank"
-  />
-</p>
 
