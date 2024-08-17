@@ -45,7 +45,7 @@
   <a href="https://www.codechef.com/users/shekhar_8" target="blank">
     <img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+      src="https://img.icons8.com/ios-filled/50/000000/codechef.png"
       alt="CodeChef"
       height="30"
       width="40"
@@ -84,7 +84,7 @@
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png"
       alt="Bootstrap"
       width="40"
       height="40"
@@ -251,6 +251,3 @@
     alt="techwithshashank"
   />
 </p>
-
-
-
