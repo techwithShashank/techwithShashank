@@ -45,7 +45,7 @@
   <a href="https://www.codechef.com/users/shekhar_8" target="blank">
     <img
       align="center"
-      src="https://img.icons8.com/ios-filled/50/000000/codechef.png"
+      src="https://img.icons8.com/ios-filled/50/ffffff/codechef.png"
       alt="CodeChef"
       height="30"
       width="40"
@@ -251,3 +251,4 @@
     alt="techwithshashank"
   />
 </p>
+
