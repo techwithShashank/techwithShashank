@@ -46,10 +46,7 @@
   href="https://www.codechef.com/users/shekhar_8"
   target="blank"
   style="
-    background-color: #333;
-    padding: 5px;
-    border-radius: 5px;
-    filter: invert(1);
+    filter: invert(1) brightness(2);
   "
 >
   <img
@@ -60,6 +57,7 @@
     width="40"
   />
 </a>
+
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shashankshekh75" target="blank">
     <img
       align="center"
