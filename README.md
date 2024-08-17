@@ -31,6 +31,7 @@
       alt="Kaggle"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.instagram.com/shukla_shashankshekhar/" target="blank">
@@ -40,6 +41,7 @@
       alt="Instagram"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.codechef.com/users/shekhar_8" target="blank">
@@ -49,6 +51,7 @@
       alt="CodeChef"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.hackerrank.com/shashankshekh75" target="blank">
@@ -58,6 +61,7 @@
       alt="HackerRank"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://leetcode.com/u/shukla_shashank/" target="blank">
@@ -67,6 +71,7 @@
       alt="LeetCode"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.geeksforgeeks.org/user/shashankshekqoj3/" target="blank">
@@ -76,6 +81,7 @@
       alt="GeeksforGeeks"
       height="30"
       width="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
 </p>
@@ -88,6 +94,7 @@
       alt="Bootstrap"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -96,6 +103,7 @@
       alt="C"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -104,6 +112,7 @@
       alt="C++"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -112,6 +121,7 @@
       alt="CSS3"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -120,6 +130,7 @@
       alt="Express"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -128,6 +139,7 @@
       alt="Git"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -136,6 +148,7 @@
       alt="HTML5"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -144,6 +157,7 @@
       alt="JavaScript"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -152,6 +166,7 @@
       alt="Linux"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -160,6 +175,7 @@
       alt="MongoDB"
       width="40"
       height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -168,14 +184,7 @@
       alt="MySQL"
       width="40"
       height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="Next.js"
-      width="40"
-      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -184,29 +193,55 @@
       alt="Node.js"
       width="40"
       height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="Oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="PostgreSQL"
-      width="40"
-      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
       alt="Python"
       width="40"
-      height
+      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="React"
+      width="40"
+      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+      alt="Java"
+      width="40"
+      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      alt="Tailwind CSS"
+      width="40"
+      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="TypeScript"
+      width="40"
+      height="40"
+      style="filter: drop-shadow(2px 4px 6px black);"
+    />
+  </a>
+</p>
+
 
 
