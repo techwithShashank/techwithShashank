@@ -45,7 +45,7 @@
   <a href="https://www.codechef.com/users/shekhar_8" target="blank">
   <img
     align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+    src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://th.bing.com/th/id/OIP.u2f8ffsPnvhvnf1m7lojgAHaHa?rs=1&pid=ImgDetMain)"
     alt="CodeChef"
     height="30"
     width="40"
