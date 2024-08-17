@@ -116,15 +116,6 @@
       width="40"
       height="40"
     />
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://hackersandslackers-cdn.storage.googleapis.com/2020/05/express.png"
-    alt="Express"
-    width="40"
-    height="40"
-    style="filter: invert(1) brightness(2);"
-  />
-</a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
