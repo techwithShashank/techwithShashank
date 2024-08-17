@@ -1,3 +1,5 @@
+![logo](https://github.com/techwithShashank/techwithShashank/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shashank Shekhar Shukla</h1>
 <h3 align="center">
   A passionate Software Engineer and enthusiastic learner from India, dedicated
