@@ -42,21 +42,20 @@
       width="40"
     />
   </a>
-<a
-  href="https://www.codechef.com/users/shekhar_8"
-  target="blank"
-  style="
-    filter: invert(1) brightness(2);
-  "
->
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-    alt="CodeChef"
-    height="30"
-    width="40"
-  />
-</a>
+
+  <a
+    href="https://www.codechef.com/users/shekhar_8"
+    target="blank"
+    style="filter: invert(1) brightness(2);"
+  >
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+      alt="CodeChef"
+      height="30"
+      width="40"
+    />
+  </a>
 
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shashankshekh75" target="blank">
     <img
@@ -89,7 +88,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="filter: invert(1) brightness(2);">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap"
@@ -121,7 +120,7 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="filter: invert(1) brightness(2);">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="Express"
@@ -258,4 +257,3 @@
     />
   </div>
 </div>
-
