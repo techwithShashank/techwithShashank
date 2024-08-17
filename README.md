@@ -49,7 +49,7 @@
     alt="CodeChef"
     height="30"
     width="40"
-    style="filter: invert(1) brightness(2);"
+    style="filter: invert(1) brightness(200);"
   />
 </a>
 
