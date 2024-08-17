@@ -52,8 +52,6 @@
   />
 </a>
 
-
-
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shashankshekh75" target="blank">
     <img
       align="center"
@@ -85,15 +83,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://vetores.org/wp-content/uploads/bootstrap.png"
-    alt="Bootstrap"
-    width="40"
-    height="40"
-    style="filter: invert(1) brightness(2);"
-  />
-</a>
+
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
